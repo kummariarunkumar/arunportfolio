@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cfd9ee3.css",
+    "main.js": "/static/js/main.3fe8d95b.js",
+    "static/js/453.07b51e5c.chunk.js": "/static/js/453.07b51e5c.chunk.js",
+    "static/media/onlinestore.png": "/static/media/onlinestore.4f4e1b5d68cd1bcdd5b1.png",
+    "static/media/curd.png": "/static/media/curd.3edd4e40bf225e42f64c.png",
+    "static/media/arunhome.jpg": "/static/media/arunhome.f759eaa68153a3d50372.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.16df648f2870a8f593a8.png",
+    "static/media/compnyhtml.png": "/static/media/compnyhtml.4b2c97c9c89cad98c3ce.png",
+    "static/media/project_1.png": "/static/media/project_1.f2d05fe61e27777725f8.png",
+    "static/media/tempconvert.png": "/static/media/tempconvert.96d3c899f274987482fd.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/companythemed.png": "/static/media/companythemed.c4cb2c01645ddf80fc08.png",
+    "static/media/hd arun.jpg": "/static/media/hd arun.9275cddf05b69cb6caee.jpg",
+    "static/media/ARUN.jpg": "/static/media/ARUN.9bee18212a1e983d7db5.jpg",
+    "static/media/ticketmaker.png": "/static/media/ticketmaker.6cda7aa8f82972b4921f.png",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/call_icon.svg": "/static/media/call_icon.fec62cc3d3fb69f5ce5f05a0724a0425.svg",
+    "static/media/mail_icon.svg": "/static/media/mail_icon.9eae5516c8c1364a170e8b13ae4c18cf.svg",
+    "index.html": "/index.html",
+    "static/media/location_icon.svg": "/static/media/location_icon.111157f177e78ee2c0025016c0206379.svg",
+    "static/media/arrow_icon.svg": "/static/media/arrow_icon.866a8d83b9723eed11e169d98d66ebc7.svg",
+    "main.2cfd9ee3.css.map": "/static/css/main.2cfd9ee3.css.map",
+    "main.3fe8d95b.js.map": "/static/js/main.3fe8d95b.js.map",
+    "453.07b51e5c.chunk.js.map": "/static/js/453.07b51e5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cfd9ee3.css",
+    "static/js/main.3fe8d95b.js"
+  ]
+}
